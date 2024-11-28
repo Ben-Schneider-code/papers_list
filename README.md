@@ -1,4 +1,4 @@
-# papers list
+# Papers List
 List of Papers to Read  
 
 **Model papers**
@@ -15,13 +15,15 @@ List of Papers to Read
 - Longformer
 - LongNet
 
-**Infernece**
+**Infernece**  
+
 Maybe do a project on training long context video LLMs + fast inference technqiues to get real time video processing?
 Basic Quantization techniques
 - GPTQ
 - LLM.int8()
   
-**For work**
+**For work**  
+
 Review related work for the undergrad intern project
 - Review that sec paper on mixture of experts for partitioning private info
 - https://arxiv.org/abs/2306.03235
