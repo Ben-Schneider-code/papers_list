@@ -21,7 +21,11 @@ Maybe do a project on training long context video LLMs + fast inference technqiu
 Basic Quantization techniques
 - GPTQ
 - LLM.int8()
-  
+
+KV Caching and model serving
+- long context serving https://arxiv.org/pdf/2405.08944
+- more kv caching stuff (?)
+
 **For work**  
 
 Review related work for the undergrad intern project
