@@ -4,6 +4,7 @@ List of Papers to Read
 **Model papers**
 - Olmoe (mixture of experts one)
 - Molmo (multimodal one)
+- RoPE
 
 **Training scaling**
 
