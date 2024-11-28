@@ -15,7 +15,7 @@ List of Papers to Read
 - Longformer
 - LongNet
 
-**Infernece**  
+**Inference**  
 
 Maybe do a project on training long context video LLMs + fast inference technqiues to get real time video processing?
 Basic Quantization techniques
