@@ -5,6 +5,8 @@ List of Papers to Read
 - Olmoe (mixture of experts one)
 - Molmo (multimodal one)
 - RoPE
+- ViT paper (review)
+- ViVit: a video transformer model
 
 **Training scaling**
 
