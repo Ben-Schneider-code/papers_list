@@ -2,6 +2,7 @@
 List of Papers to Read  
 
 **Model papers**
+- genie 1 genie 2 (google deepmind)
 - Olmoe (mixture of experts one)
 - Molmo (multimodal one)
 - RoPE
