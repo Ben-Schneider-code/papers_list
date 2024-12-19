@@ -8,7 +8,8 @@ List of Papers to Read
 - RoPE
 - ViT paper (review)
 - ViVit: a video transformer model
-
+- Apollo: An Exploration of Video Understanding in Large Multimodal Models
+  
 **Training scaling**
 
 - Megatron-LM
