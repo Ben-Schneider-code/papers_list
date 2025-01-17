@@ -21,6 +21,9 @@ List of Papers to Read
 - Longformer
 - LongNet
 
+**Data**
+- Best Practices and Lessons Learned on Synthetic Data (COLM 2024)
+
 **Inference**  
 
 Maybe do a project on training long context video LLMs + fast inference technqiues to get real time video processing?
@@ -31,9 +34,3 @@ Basic Quantization techniques
 KV Caching and model serving
 - long context serving https://arxiv.org/pdf/2405.08944
 - more kv caching stuff (?)
-
-**For work**  
-
-Review related work for the undergrad intern project
-- Review that sec paper on mixture of experts for partitioning private info
-- https://arxiv.org/abs/2306.03235
