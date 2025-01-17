@@ -8,8 +8,12 @@ List of Papers to Read
 - RoPE **DONE**
 - ViT paper (review) **DONE**
 - ViVit: a video transformer model
-- Apollo: An Exploration of Video Understanding in Large Multimodal Models **DONE**
 - DeepSeek-V3 Technical Report
+
+**VLM Architeciture**
+- Apollo: An Exploration of Video Understanding in Large Multimodal Models **DONE**
+- LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One   Vision Token 
+- INFERENCE OPTIMAL VLMS NEED ONLY ONE VISUAL TOKEN BUT LARGER MODELS
 
 **Training scaling**
 
