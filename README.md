@@ -25,6 +25,10 @@ List of Papers to Read
 - Longformer
 - LongNet
 
+**RL**
+- SFT Memorizes, RL Generalizes:
+A Comparative Study of Foundation Model Post-training
+
 **Data**
 - Best Practices and Lessons Learned on Synthetic Data (COLM 2024)
 
