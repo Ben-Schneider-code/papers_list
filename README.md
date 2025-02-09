@@ -33,11 +33,9 @@ A Comparative Study of Foundation Model Post-training
 - Best Practices and Lessons Learned on Synthetic Data (COLM 2024)
 
 **Inference**  
-
-Maybe do a project on training long context video LLMs + fast inference technqiues to get real time video processing?
-Basic Quantization techniques
 - GPTQ
-- LLM.int8()
+- AWQ: ACTIVATION-AWARE WEIGHT QUANTIZATION FOR ON-DEVICE LLM COMPRESSION AND ACCELERATION
+- A Survey of Low-bit Large Language Models: Basics, Systems, and Algorithms
 
 KV Caching and model serving
 - long context serving https://arxiv.org/pdf/2405.08944
